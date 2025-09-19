@@ -1,5 +1,5 @@
-def sample_python_app():
-    print("Hello,welcom to gitHub")
+def greet() :
+    print("Hello,welcome to GitHub Python app!")
 
-
-sample_python_app()
+if __name__ == "__main__":
+    greet()
